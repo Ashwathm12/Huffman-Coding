@@ -1,4 +1,4 @@
-# Implementation of HuffmanCoding
+# Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
