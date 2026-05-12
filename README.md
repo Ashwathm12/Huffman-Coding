@@ -1,4 +1,7 @@
-# Huffman-Coding
+# Exp 11 - Huffman-Coding
+## Name: Ashwath M
+## Reister number: 212223230023
+
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
